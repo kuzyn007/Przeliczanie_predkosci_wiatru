@@ -28,7 +28,7 @@ public class Pirat
     {
         double m = a / 1.852;
         System.out.println("Predkosc wiatru wynosi " + m + " mph");
-        return a;
+        return m;
     }
     public boolean czyJestCiszaNaMorzu()
     {
